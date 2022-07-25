@@ -1,8 +1,8 @@
-Hi 👋 My name is Sandeep Kumar
-==============================Full Stack Web Developer------------------------I am a dedicated and enthusiastic final year student with excellent problem-solving skills along with Internship experience in the field of Back-End Web Development. Strong interpersonal & communication skills with the ability to translate business requirements into technical solutions. Proficient in JAVA, PYTHON, JAVASCRIPT, and SQL.* 🌍  I'm based in India* 🧠  I'm learning MERN Stack
+Hi 👋 My name is Sandeep Kumar (sandy)
+======================================Full Stack Web Developer------------------------I am a dedicated and enthusiastic final year student with excellent problem-solving skills along with Internship experience in the field of Back-End Web Development. Strong interpersonal & communication skills with the ability to translate business requirements into technical solutions. Proficient in JAVA, PYTHON, JAVASCRIPT, and SQL.* 🌍  I'm based in India* 🧠  I'm learning MERN Stack
 
-<a href="https://www.github.com/sandykr01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sandykr01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/sandykr01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sandykr01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
