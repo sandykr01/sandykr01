@@ -4,7 +4,7 @@ Hi 👋 My name is Sandeep Kumar
 Full Stack Web Developer
 ------------------------
 
-I am a dedicated and enthusiastic final year student with excellent problem-solving skills along with Internship experience in the field of Back-End Web Development. Strong interpersonal & communication skills with the ability to translate business requirements into technical solutions. Proficient in JAVA, PYTHON, JAVASCRIPT, and SQL.
+I am a dedicated and enthusiastic software engineering with excellent problem-solving skills along with decent experience in the industry and started my journey with a few internships in the field of Back-End Web Development. Strong interpersonal & communication skills with the ability to translate business requirements into technical solutions. Proficient in JAVA, PYTHON, JAVASCRIPT, and SQL.
 
 *   🌍  I'm based in India
 *   🧠  I'm learning MERN Stack
